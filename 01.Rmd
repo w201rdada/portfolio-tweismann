@@ -1,8 +1,6 @@
-# My first cool idea is perfect pricing
+# My first cool idea is a pricing model
 
-#### Keywords {-}
-
-SaaS, Pricing, B2B, Negotiations, Software Deals
+#### Keywords {SaaS, Pricing, B2B, Negotiations, Software Deals}
 
 ---
 ## To set a good price, first understand value.
