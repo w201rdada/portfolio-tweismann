@@ -1,24 +1,28 @@
-# My first cool idea {#slug-one}
+# My first cool idea is perfect pricing
 
 #### Keywords {-}
 
-yaba, daba, do
+SaaS, Pricing, B2B, Negotiations, Software Deals
 
-## A beginning.
+---
+## To set a good price, first understand value.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+Every effective modern organization uses software.  Vendors create software so they can sell it to organizations in often complex and unique deals.  Price is the point of connection between organizations and vendors, or generically between supply and demand, that enables an exchange of value.  Of the four growth levers, pricing is the most levered; a 1% improvement in price yields substantially more net income than a 1% improvement in volume, fixed cost, or variable cost.
 
-## A middle.
+Pricing well enables a firm to improve accessibility of its product for various customer segments and to maximize value capture for each segment.  Both of these increase top line revenue. Price is now very interesting, so let's explore a bit.  In theory, an entity is willing to pay up to the value of the utility received from software for that software.  In practice, the total cost of using software is not limited to paying the vendor, and utility received is distributed and difficult to measure.  If the question is how to price perfectly, the theoretical answer would be to cleanly measure anticipated utility with fine-tuned accuracy and price accordingly.  Finding and stimulating utility recipients, and capturing utility measures is generally considered too slow and too expensive to do, especially when answers are needed at the speed of business. 
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+With the theoretical concept out of practical reach, the practical answer is messier, less accurate and potentially unwieldy.  The practical answer is a model that gets close to the pin cheaply and quickly.  In other words, to accelerate growth, B2B software firms can deploy a pricing capability that enables users to predict a good price for each potential deal, instantly.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+---
+## The pricing solution proposed.
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+The data foundation of a B2B software pricing model depends on the variety and quality of data available, and the frequency of model updates depends on operational capability, but the common constant is using data to gain insight into demand.  A few easy classifiers to use in segmentation include customer, market, and product.  UC Berkeley educates full-time on campus students and part-time remote students, caters to a local market and an international market, and offers undergraduate product, master product, and doctorate product.  
 
-## An end.
+These types of data and others will blended to train a model aimed at predicting good prices. Since our objective function is business outcomes, deployability is a key requirement.  A neural network or random forest might optimize accuracy, but a simpler tree, regression, or a combination might get close enough and also be feasibly productionalized.  
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Once built, the model would need to be deployed into the existing sales and deal negotiation process, and may be used by sales teams, sales management, deal desks, product groups, marketing among others.  The primary purpose is to quickly and cheaply guide pricing where the next best alternative is tribal knowledge and back of the napkin math.  Once deployed, other organizations benefit by gaining a deeper understanding of demand faced by the firm.
+
+---
+## so what?.
+
+Pricing is cool because it helps firms access and serve more customers, maximize the utility its products generate, and do a better job translating utility generated into revenue.  Secondarily, this model helps convey a common standard of demand and product value across the firm, often forcing cross-functional communication about serving customers that otherwise might not occur.  In other words, in addition to improving the top line in the short term, a well constructed pricing function forces a firm to be aligned and focused on creating customer value, which improves long term profitability.
