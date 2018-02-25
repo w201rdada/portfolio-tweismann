@@ -1,6 +1,9 @@
 # Universal Utility {#allseeingeye}
 
+<<<<<<< HEAD
 #### Keywords {universal utility, utility}
+=======
+>>>>>>> d0372646eb57d9f3409fedd0d8adf79b0c083b1c
 
 
 ## Everyone has unique tastes

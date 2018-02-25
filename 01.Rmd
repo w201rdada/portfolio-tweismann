@@ -1,6 +1,14 @@
 # My first cool idea is a pricing model
 
+<<<<<<< HEAD
 #### Keywords {SaaS, Pricing, B2B, Negotiations, Software Deals}
+=======
+#### Abstract {-}
+
+(ref:abs1)
+
+#### Keywords {-}
+>>>>>>> d0372646eb57d9f3409fedd0d8adf79b0c083b1c
 
 ---
 ## To set a good price, first understand value.
