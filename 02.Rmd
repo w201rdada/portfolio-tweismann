@@ -1,9 +1,9 @@
 # Universal Utility {#allseeingeye}
 
-#### Keywords {-}
+#### Keywords {universal utility, utility}
 
 
-## Everyone has unique tastes, but restaurants still make money
+## Everyone has unique tastes
 
 We often think we know someone, either others or ourselves, but are later surprised by a decision or action.  We think something like "that doesn't seem like him/her to do that."  Since people rarely do things that are not useful to them in some way, actions might be deduced to priortized lists of options weighted by utility.  An example to illustrate:
 
@@ -19,4 +19,6 @@ To follow the example in class, this model will know that if I clicked 10 times 
 
 ## An end.
 
-Such a model is useful for serving to preferences better, which for given entities is beneficial, and for society as a whole reduces waste.  As a tool, it could be used for good or for evil.  It could be used to learn about how tastes change over time (something we only know about anecdotally today).
+Such a model will be useful to help align market offers to market preferences more precisely.  Such added precision may improve utility return per dollar for consumers, and may help reduce waste overall as a greater society.  If firms get better at offering higher utility offerings, then, all else equal, consumers will better off and society will waste fewer resources creating offerings that are less desireable.  If, however, firms get better at offering higher utility offerings and also know how to price to utility, then firms will be better but consumers would not greatly beneift.
+
+As a tool, it could be used for good, for example, if open sourced and made available to everyone for free.  It could also be used as a competitive advantage by firms if it is not offered as open source.  The most likely scenario would evolve as an open source tool with premium customization, services and extensions built on top, with service providers akin to redhat.
